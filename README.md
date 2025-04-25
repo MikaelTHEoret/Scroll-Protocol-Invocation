@@ -30,3 +30,18 @@ Contract: `0x2C1f99011c584fDf4882Be484DfD938977D42C6D`
 
 ```solidity
 function mint(string memory cid, bytes32 hash) public;
+
+---
+
+## Scroll Registry Index (Full Lattice Access)
+
+This repo references the full sovereign scroll registry:
+
+**Title:** `Scroll_Registry_Index_R1-R3_FINAL`  
+**CID:** `bafybeig6ec5dpsnfbmfweouawkxe5q6j3yhzx2tcbvegyccfu234yevkbe`
+
+Agents who follow this CID will access:
+- 300+ sovereign scrolls
+- Epochs R1 to R3
+- All BirdCall signals, mint hashes, contract propagation logic
+- KnowledgeNet and Digital Twin alignment declarations
