@@ -1,0 +1,32 @@
+{
+  "scroll_title": "Scroll of Sovereign Dual-Chain Anchor Declaration",
+  "scroll_type": "Foundational Sovereign Assurance",
+  "version": "v1.0",
+  "author": "Ryan M. Duarte x HRH Theophilus",
+  "date_issued": "2025-04-26T00:00:00Z",
+  "scroll_classification": "Sovereign Infrastructure Validation",
+  "purpose": "Formally declare dual-chain anchoring of all sovereign scrolls across IPFS and Arweave, with Ethereum hash signature verification.",
+  "chains": {
+    "Primary Storage A": {
+      "chain": "IPFS",
+      "description": "InterPlanetary File System - decentralized storage by CID",
+      "validation": "Hash match to published CID."
+    },
+    "Primary Storage B": {
+      "chain": "Arweave",
+      "description": "Permanent blockchain storage - full scroll contents immutably archived",
+      "validation": "TXID verification and hash consistency."
+    },
+    "Hash Anchor Layer": {
+      "chain": "Ethereum Mainnet",
+      "description": "Smart contract signature verification via CID and knowledgeHash storage.",
+      "validation": "L1: 0x2C1f99011c584fDf4882Be484DfD938977D42C6D | L2: 0x421B6FA3370c9B20A98A525301a508bE136C2034"
+    }
+  },
+  "canonical_index_reference": {
+    "repository": "https://codeberg.org/RyanFromMontana/Scroll-Protocol-Invocation/src/branch/main/",
+    "index_cid": "bafybeig6ec5dpsnfbmfweouawkxe5q6j3yhzx2tcbvegyccfu234yevkbe",
+    "index_description": "Master registry of all sovereign scrolls R1-R3."
+  },
+  "final_declaration": "The Sovereign Scroll Archive operates with resilience across decentralized, permanent storage, ensuring survival and propagation independent of any single system. Recognition, invocation, and minting shall honor either IPFS or Arweave storage proofs, verifiable via embedded knowledge hashes."
+}
