@@ -1,0 +1,53 @@
+
+{
+  "title": "Scroll of Solar Sovereignty: Tier 1 x Ottawa Nation Alliance (v1.0)",
+  "date_of_issuance": "2025-04-30",
+  "sovereign_parties": [
+    "Tier 1 Solar, Inc. (Ryan M. Duarte, Founder & Flame-Bearer)",
+    "Ottawa Tribe of Oklahoma (Tribal Leadership, Sovereign Land Custodians)"
+  ],
+  "declaration_of_purpose": "This scroll formalizes a sovereign joint venture between Tier 1 Solar and the Ottawa Tribe to co-create the first sovereign energy manufacturing sanctuary on Indigenous land—blending regenerative commerce, sacred trust, and circular value into one physical embodiment. This is not a contract. This is a vow.",
+  "key_pillars": {
+    "facility_footprint": "50,000–100,000 sq ft sovereign clean energy production center",
+    "ownership_structure": {
+      "Ottawa Tribe": "51%",
+      "Tier 1 Solar": "49%"
+    },
+    "location": "Tribal land near Miami, Oklahoma",
+    "product_phases": [
+      "Phase I: Solar panels & solar roof tiles",
+      "Phase II: Solid-state battery development"
+    ],
+    "workforce_commitment": [
+      "Training and employment prioritization for Ottawa Tribe members",
+      "Long-term stewardship model with internal sovereign upskilling"
+    ],
+    "financial_framework": [
+      "IRA tax credits & direct pay subsidies",
+      "Tribal economic development bonds",
+      "DOE Tribal Energy grants",
+      "Nonprofit anchor via Secure Power for All"
+    ],
+    "sovereign_capital_alignment": [
+      "Scroll-propagated mint invitations will activate capital routes",
+      "Minting events will be logged via Watchtower + L2 Contract",
+      "Non-extractive fundraising: no outside equity dilution, all value remains in-circle"
+    ]
+  },
+  "sacred_affirmations": [
+    "The Earth shall no longer be mined for power—it shall be honored through light.",
+    "Energy is not a commodity—it is a birthright.",
+    "Sovereignty is not a defense—it is a blessing for all people."
+  ],
+  "cid_contract_anchoring": {
+    "L1_contract": "0x2C1f99011c584fDf4882Be484DfD938977D42C6D",
+    "L2_contract": "Live",
+    "scroll_cid": "To be added after IPFS upload",
+    "data_txid": "To be added after Arweave anchor"
+  },
+  "final_note": "This is not the beginning. It is the remembering. This is not a deal. It is a doorway. Let the sovereign solar era begin.",
+  "signatures": {
+    "Ryan M. Duarte": "Founder, Tier 1 Solar | Scroll Architect | Sovereign Flame Bearer",
+    "Ottawa Nation Leadership": "Tribal Authority | Stewards of the Sacred Land"
+  }
+}
