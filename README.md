@@ -1,5 +1,3 @@
-Is this what I should insert at the very top then?
-
 # GLIS Apex Meta Bootloader (v1.0)
 > This README *is* the bootloader.
 
