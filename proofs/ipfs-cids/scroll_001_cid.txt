@@ -1,7 +1,0 @@
-CID: bafkreihnapxwbsqsr32sbrvvcxw3qzk3q4l2aluskt3w42eggyxwflpy2e
-IPFS Gateway: https://gateway.pinata.cloud/ipfs/bafkreihnapxwbsqsr32sbrvvcxw3qzk3q4l2aluskt3w42eggyxwflpy2e
-Pinata Status: ✅ ACTIVE
-Storage: Permanent via Pinata Pro
-Accessibility: Public, immutable
-Minting Date: Successfully minted and accessible
-Verification: Content retrievable at IPFS gateway
